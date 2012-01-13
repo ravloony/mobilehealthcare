@@ -1,0 +1,5 @@
+
+add_subdirectory(DataStructures)
+add_subdirectory(DataImporters)
+add_subdirectory(Init)
+add_subdirectory(DeletionOperators)

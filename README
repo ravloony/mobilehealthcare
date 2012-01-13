@@ -1,0 +1,3 @@
+This is the code to a TSP solver I wrote to calculate routes for outpatient visiting tours for nurses in Vienna, Austria.
+There are real world datasets but I'm not sure about any licensing issues, so I have not included them.
+There is at the moment a moderate amount of Doxygen documentation, which should autogen nicely.
