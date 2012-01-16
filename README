@@ -1,3 +1,5 @@
-This is the code to a TSP solver I wrote to calculate routes for outpatient visiting tours for nurses in Vienna, Austria.
+This is the code to a VRP solver I wrote to calculate routes for outpatient visiting tours for nurses in Vienna, Austria.
 There are real world datasets but I'm not sure about any licensing issues, so I have not included them.
 There is at the moment a moderate amount of Doxygen documentation, which should autogen nicely.
+
+The code itself implements a simulated annealing metaheuristic which applies several construction heuristics repeatedly, including the regret heuristic (Golden et al).
